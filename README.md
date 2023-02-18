@@ -1,2 +1,2 @@
 # pdtm-test-release
-Just for testing
+Just for testing with releases
